@@ -3,7 +3,7 @@ This is a high-school project focusing on the analysis and management of the dat
 
 [Run code](https://replit.com/@varunbaisane/product-sales)
 
-#Features
+# Features
 - PSMT has bunch of features of easily analysing the data for Sales of the Product for different times of the year.
 - Able to enter/re-enter data for the Product
 - Display the data in tabular form for
@@ -13,6 +13,6 @@ This is a high-school project focusing on the analysis and management of the dat
 - Delete data of a Particular Product
 - Sort Data According to Cost Price of the Product
 
-#Authors
-[Aaditya Shirke](https://www.linkedin.com/in/aaditya-shirke-b29791292/)
+# Authors<br>
+[Aaditya Shirke](https://www.linkedin.com/in/aaditya-shirke-b29791292/)<br>
 [Varun Baisane](https://www.linkedin.com/in/varunbaisane/)
