@@ -1,7 +1,7 @@
 # Product Sales Management System (PSMT)
 This is a high-school project focusing on the analysis and management of the data for the sales of the product
 
-[Run code](https://replit.com/@varunbaisane/product-sales)
+[Run code](https://colab.research.google.com/drive/1efFNQqknIEo4c_SVkX4tTTivXPkqteuF)
 
 # Features
 - PSMT has bunch of features of easily analysing the data for Sales of the Product for different times of the year.
